@@ -49,9 +49,7 @@ alucar.dtypes
 # In[8]:
 
 
-get_ipython().system('pip install seaborn==0.9.0')
 import seaborn as sns
-get_ipython().run_line_magic('matplotlib', 'inline')
 from matplotlib import pyplot as plt
 
 
